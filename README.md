@@ -19,20 +19,6 @@ I'm a Full Stack Developer passionate about creating efficient and integrated so
 - 🌱 Currently focusing on improving my skills in microservices architecture and cloud technologies.
 - 💬 Ask me about **Java, Spring Boot, Vue.js & PostgreSQL**.
 
-## <picture><img src="https://github.com/Dev-Cwsc/Dev-Cwsc/raw/main/img/contact.gif" width="50px"></picture> Connect with me
-<p align="center">
-  <a href="https://github.com/jhonkennedy06" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/jhonkennedy06/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:jhonkennedycontato@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
-
-
 ## <picture><img src="https://github.com/Dev-Cwsc/Dev-Cwsc/raw/main/img/beemo.gif" width="70px"></picture> Technologies & Tools
 <p align="center">
   <a href="https://skillicons.dev">
@@ -40,11 +26,11 @@ I'm a Full Stack Developer passionate about creating efficient and integrated so
   </a>
 </p>
 
-## <picture><img src="https://github.com/Dev-Cwsc/Dev-Cwsc/raw/main/img/github-stats.gif" width="50px"></picture> GitHub Stats
+## <picture><img src="img/github-stats.gif" width="50px"></picture> GitHub Stats
 <p align="center">
   <a href="https://github.com/jhonkennedy06">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonkennedy06&show_icons=true&theme=tokyonight-duo&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonkennedy06&layout=compact&langs_count=7&theme=tokyonight-duo"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonkennedy06&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonkennedy06&layout=compact&langs_count=7&theme=react"/>
   </a>
 </p>
 
