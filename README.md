@@ -51,7 +51,7 @@ I'm a Full Stack Developer passionate about creating efficient and integrated so
 <div align="center">
   <h3>Contribution Graph</h3>
   <a href="https://github.com/jhonkennedy06">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhonkennedy06&theme=calm" alt="Activity Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhonkennedy06&theme=react" alt="Activity Graph"/>
   </a>
 </div>
 
