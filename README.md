@@ -22,26 +22,27 @@ I'm a Full Stack Developer passionate about creating efficient and integrated so
 ## <picture><img src="./img/beemo.gif" width="70px"></picture> Technologies & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,vue,js,postgresql,mysql,py,c,git,docker,postman,linux,idea,vscode,html,css&perline=8" />
+    <img src="https://skillicons.dev/icons?i=java,spring,vue,js,postgresql,mysql,py,c,git,docker,postman,linux,idea,vscode,html,css&perline=10" />
   </a>
 </p>
 
-## <picture><img src="./img/github-stats.gif" width="50px"></picture> GitHub Stats
-<p align="center">
-  <a href="https://github.com/jhonkennedy06">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonkennedy06&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/jhonkennedy06">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonkennedy06&layout=compact&langs_count=7&theme=react"/>
-  </a>
-</p>
+## <picture><img src="./img/github-stats.gif" width="50px"></picture> GitHub Stats & Activity
 
-<div align="center">
-  <h3>Contribution Graph</h3>
-  <a href="https://github.com/jhonkennedy06">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhonkennedy06&theme=react" alt="Activity Graph"/>
-  </a>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/jhonkennedy06">
+        <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jhonkennedy06&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+        <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonkennedy06&layout=compact&langs_count=7&theme=react"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jhonkennedy06">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhonkennedy06&theme=react" alt="Activity Graph"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <picture>
