@@ -6,7 +6,7 @@
 
 <div align="center">
   <picture>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=3399FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Java+%26+JavaScript+Enthusiast;Computer+Science+Student" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=3399FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Java+%26+JavaScript+%26+Python;" alt="Typing SVG"/>
   </picture>
 </div>
 
@@ -22,11 +22,11 @@ I'm a Full Stack Developer passionate about creating efficient and integrated so
 ## <picture><img src="./img/beemo.gif" width="70px"></picture> Technologies & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,vue,js,postgresql,mysql,py,c,git,docker,postman,linux,idea,vscode,html,css&perline=10" />
+    <img src="https://skillicons.dev/icons?i=java,spring,vue,js,postgresql,python,mysql,py,c,git,docker,postman,linux,idea,&perline=50" />
   </a>
 </p>
 
-## <picture><img src="./img/github-stats.gif" width="50px"></picture> GitHub Stats & Activity
+## <picture><img src="./img/git.gif" width="50px"></picture> GitHub Stats & Activity
 
 <table align="center">
   <tr>
@@ -43,9 +43,3 @@ I'm a Full Stack Developer passionate about creating efficient and integrated so
     </td>
   </tr>
 </table>
-
-<div align="center">
-  <picture>
-    <img src="https://raw.githubusercontent.com/jhonkennedy06/jhonkennedy06/output/snake.svg" alt="snake"/>
-  </picture>
-</div>
