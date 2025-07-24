@@ -43,15 +43,15 @@ I'm a Full Stack Developer passionate about creating efficient and integrated so
 ## <picture><img src="https://github.com/Dev-Cwsc/Dev-Cwsc/raw/main/img/github-stats.gif" width="50px"></picture> GitHub Stats
 <p align="center">
   <a href="https://github.com/jhonkennedy06">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonkennedy06&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonkennedy06&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonkennedy06&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonkennedy06&layout=compact&langs_count=7&theme=calm"/>
   </a>
 </p>
 
 <div align="center">
   <h3>Contribution Graph</h3>
   <a href="https://github.com/jhonkennedy06">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhonkennedy06&theme=tokyonight-duo" alt="Activity Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhonkennedy06&theme=calm-duo" alt="Activity Graph"/>
   </a>
 </div>
 
