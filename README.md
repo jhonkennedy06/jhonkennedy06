@@ -14,7 +14,7 @@
 
 I'm a Full Stack Developer passionate about creating efficient and integrated solutions. With a solid foundation in **Vue.js** for dynamic interfaces and **Spring Boot** for robust APIs, I always aim to deliver high-quality software. My diverse background, which includes people management, has given me strong collaboration and problem-solving skills.
 
-- 🇧🇷 From Brazil, to the world!
+- <img src="./img/brasil2.gif" alt="Bandeira do Brasil animada" width="25"> From Brazil, to the world!
 - 🎓 Computer Science undergraduate at the **Federal Institute of Minas Gerais (IFMG)**.
 - 🌱 Currently focusing on improving my skills in microservices architecture and cloud technologies.
 - 💬 Ask me about **Java, Spring Boot, Vue.js & PostgreSQL**.
@@ -30,6 +30,8 @@ I'm a Full Stack Developer passionate about creating efficient and integrated so
 <p align="center">
   <a href="https://github.com/jhonkennedy06">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonkennedy06&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/jhonkennedy06">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonkennedy06&layout=compact&langs_count=7&theme=react"/>
   </a>
 </p>
