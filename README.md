@@ -10,7 +10,7 @@
   </picture>
 </div>
 
-## <picture><img src="main/img/programmer.gif" width="50px"></picture> About Me
+## <picture><img src="./img/programmer.gif" width="50px"></picture> About Me
 
 I'm a Full Stack Developer passionate about creating efficient and integrated solutions. With a solid foundation in **Vue.js** for dynamic interfaces and **Spring Boot** for robust APIs, I always aim to deliver high-quality software. My diverse background, which includes people management, has given me strong collaboration and problem-solving skills.
 
@@ -19,14 +19,14 @@ I'm a Full Stack Developer passionate about creating efficient and integrated so
 - 🌱 Currently focusing on improving my skills in microservices architecture and cloud technologies.
 - 💬 Ask me about **Java, Spring Boot, Vue.js & PostgreSQL**.
 
-## <picture><img src="main/img/beemo.gif" width="70px"></picture> Technologies & Tools
+## <picture><img src="./img/beemo.gif" width="70px"></picture> Technologies & Tools
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,vue,js,postgresql,mysql,py,c,git,docker,postman,linux,idea,vscode,html,css&perline=8" />
   </a>
 </p>
 
-## <picture><img src="img/github-stats.gif" width="50px"></picture> GitHub Stats
+## <picture><img src="./img/github-stats.gif" width="50px"></picture> GitHub Stats
 <p align="center">
   <a href="https://github.com/jhonkennedy06">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonkennedy06&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
