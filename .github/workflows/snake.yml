@@ -1,0 +1,30 @@
+name: Generate Snake Animation
+
+# Roda a cada 12 horas ou quando você acionar manualmente
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      # Gera a animação da cobra
+      - name: Generate snake svg
+        uses: Platane/snk@v3
+        with:
+          # O seu nome de usuário do GitHub
+          github_user_name: ${{ github.repository_owner }}
+          
+          # Lista de arquivos a serem gerados. A URL no seu README usa 'output/snake.svg'
+          outputs: dist/snake.svg
+
+      # Envia o arquivo gerado para o repositório, em um branch chamado 'output'
+      - name: Push snake svg to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
