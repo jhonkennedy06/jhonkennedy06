@@ -1,6 +1,5 @@
 name: Generate Snake Animation
 
-# Roda a cada 12 horas ou quando você acionar manualmente
 on:
   schedule:
     - cron: "0 */12 * * *"
@@ -9,15 +8,17 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+
+    # ADICIONE ESTE BLOCO DE CÓDIGO AQUI
+    permissions:
+      contents: write # Permissão para a Action escrever no conteúdo do repositório
+
     steps:
       # Gera a animação da cobra
       - name: Generate snake svg
         uses: Platane/snk@v3
         with:
-          # O seu nome de usuário do GitHub
           github_user_name: ${{ github.repository_owner }}
-          
-          # Lista de arquivos a serem gerados. A URL no seu README usa 'output/snake.svg'
           outputs: dist/snake.svg
 
       # Envia o arquivo gerado para o repositório, em um branch chamado 'output'
